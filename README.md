@@ -40,7 +40,7 @@ print(f"Square root of the number: {new}")
 ```
 
 ## Output:
-![gcd of two number](gcd.png)![Screenshot 2023-12-21 175001](https://github.com/MOHAMEDAAKIFASRAR/Square-root-of-a-number/assets/148514683/0c4c481a-bdb6-4b81-a0fb-5947054f9e27)
+![Screenshot 2023-12-21 175001](https://github.com/MOHAMEDAAKIFASRAR/Square-root-of-a-number/assets/148514683/0c4c481a-bdb6-4b81-a0fb-5947054f9e27)
 
 
 
